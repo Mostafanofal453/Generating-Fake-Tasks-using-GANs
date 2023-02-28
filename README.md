@@ -26,7 +26,7 @@ This project explains how to use GANs with tabular data not only with images
 
 The project was part of our AI & Data Science Master's degree at the University of Ottawa. 
 
-Kaggle link: [Link](https://www.kaggle.com/code/mostafanofal/network-intrusion-detection-hyperparameter-tuning)
+Kaggle link: [Link](https://www.kaggle.com/code/mostafanofal/generating-fake-tasks-using-gans)
 
 Check all the projects here: [Link](https://github.com/Mostafanofal453)
 
