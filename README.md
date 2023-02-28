@@ -70,8 +70,8 @@ Download MCS dataset via this [Link](http://nextconlab.academy/MCSData/MCS-FakeT
 
 |            | Original test set                   | Mixed without discriminator          | Cascade framework                   |
 | ---------- | ----------------------------------- | ------------------------------------ | ----------------------------------- |
-| Accuracies | ![Original test set](Image/1AC.png) | ![Original test set](Image/2AC.png)  | ![Original test set](Image/3AC.png) |
-| Bar Chart  | ![Original test set](Image/1BR.png) | ![Mixed without disc](Image/2BR.png) | ![Cascade framework](Image/3BR.png) |
+| Accuracies | ![Original test set](Image/1AC.PNG) | ![Original test set](Image/2AC.PNG)  | ![Original test set](Image/3AC.PNG) |
+| Bar Chart  | ![Original test set](Image/1BR.PNG) | ![Mixed without disc](Image/2BR.PNG) | ![Cascade framework](Image/3BR.PNG) |
 
 [//]: # (| ![image]&#40;https://drive.google.com/uc?export=view&id=1EUZABxhwsYhC7RAIAA8MogDVgnqgWlD0;                                                                                                                  | ![image]&#40;https://drive.google.com/uc?export=view&id=1r3x_j3zuukV1CtcKmzDwqLWPm9f8RjIE;                                                                                                                              | ![image]&#40;https://drive.google.com/uc?export=view&id=1tyXF3O4owtCo8aheUuOUjNokEn9P9-21;                                                                                                                           | ![image]&amp;#40;https://drive.google.com/uc?export=view&id=1Y1haFnq7q2KV83WcbxyZlPx7TXOZgZvN;                                                                                                              | ![image]&amp;#40;https://drive.google.com/uc?export=view&id=1MegUWSZur2ofC3R7ZcZp4s3HTXfa90lR;                                                                                                                  | ![image]&amp;#40;https://drive.google.com/uc?export=view&id=1qNnosYT-ZPn7RAD44iIKn2pQykMzEOxN;                                                                                                             |))
 
