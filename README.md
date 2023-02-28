@@ -78,7 +78,7 @@ Download MCS dataset via this [Link](http://nextconlab.academy/MCSData/MCS-FakeT
 
 # <a name = "8">Conclusion</a>
 
-The generated tasks from the generator are robust and succeeded to fault the classic ML algorithms because it tried to generate tasks very close to the real one, so the models can’t determine it and the accuracies have been decreased from 0.92 to 0.575 in the Adaboost model and have been decreased from 0.993 to 0.590 in the Random Forest model. In the cascade approach, the discriminator helped the models because it can filter the fake tasks, so after filtering it out the accuracies increased again to 0.926 in Adaboost and to 0.993 in the Random Forest model and this result is approximately one before mixing which means that the discriminator filtered.
+The generated tasks from the generator are robust and succeeded to fault the classic ML algorithms because it tried to generate tasks very close to the real one, so the models can’t determine it and the accuracies have been decreased from 0.94 to 0.72 in the Adaboost model and have been decreased from 0.99 to 0.74 in the Random Forest model. In the cascade approach, the discriminator helped the models because it can filter the fake tasks, so after filtering it out the accuracies increased again to 0.921 in Adaboost and to 0.96 in the Random Forest model and this result is approximately one before mixing which means that the discriminator filtered.
 
 
 # **<a name = "9">References</a>**
